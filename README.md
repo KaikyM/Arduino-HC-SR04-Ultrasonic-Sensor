@@ -1,7 +1,7 @@
 # Arduino-HC-SR04-Ultrasonic-Sensor
 
 ## Contextualization
-In this experiment, an LED will be turned on by pressing a button. Please note that no ports will be used and no code will be written.
+In this experiment, the reading of an ultrasonic sensor will be performed and stored in a variable. Then, this variable will be used to turn on the red LED when the distance is less than 100 centimeters; otherwise, it will turn on the green LED. The ultrasonic sensor will be connected to digital pin 4 for triggering the signal (Trigger) and digital pin 5 for receiving the echo (Echo). Ultrasonic sensors emitting ultrasonic signals and analyzing the reflection/echo.
 
 ## Components:
 - 1 - Arduino Uno R3
