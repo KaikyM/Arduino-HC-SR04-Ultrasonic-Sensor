@@ -1,7 +1,7 @@
 # Arduino-HC-SR04-Ultrasonic-Sensor
 
 ## Contextualization
-In this experiment, an LED on pin 12 will be controlled by the button on digital pin 13 (LED_BUILTIN). When the button is pressed, the LED should turn on, and when it is released, the LED should turn off.(-Second option- When the button is pressed again, it should turn off the LED, and so on, repeatedly.)
+In this experiment, an LED on pin 12 will be controlled by the button on digital pin 13 (LED_BUILTIN). When the button is pressed, the LED should turn on, and when it is released, the LED should turn off.(-Second Option- When the button is pressed again, it should turn off the LED, and so on, repeatedly.)
 
 ## Components:
 - 1 - Arduino Uno R3
